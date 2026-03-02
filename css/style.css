@@ -13,3 +13,10 @@ width:80%;
     border:1px solid darkgrey;
     border-radius:10px 10px 0 0;
 }
+
+/*stying site title*/
+h1#sitetitle{
+  font-family:Arial;
+  font-size:32px;
+  color:orange;
+}
