@@ -12,6 +12,7 @@ width:80%;
     background-image:linear-gradient(greenyellow,cyan,teal);
     border:1px solid darkgrey;
     border-radius:10px 10px 0 0;
+    padding:20px;
 }
 
 /*stying site title*/
