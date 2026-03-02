@@ -30,3 +30,10 @@ span#sitemotto{
   color: aqua;
   text-align:center;
 }
+
+/*site navigation*/
+nav#sitenav{
+  width:100%;  
+  height:30px;
+   background-image:radial-gradient(greenyellow,cyan);
+}
