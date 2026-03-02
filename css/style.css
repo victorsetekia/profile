@@ -1,6 +1,13 @@
+/*styling div main container*/
 div#divmaincontainer{
 width:80%; 
-  margin: auto; 
+  margin:auto; 
   /*border: 1px solid turquoise;*/
-  
+}
+
+  /*stying the header of the site*/
+  header#siteheader{
+    width:100%;
+    height:150px;
+    background-image:linear-gradient(greenyellow,cyan,teal);
 }
